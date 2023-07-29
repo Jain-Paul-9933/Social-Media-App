@@ -1,11 +1,14 @@
 {
   "ExpandedNodes": [
     "",
-    "\\static",
-    "\\static\\assets",
+    "\\core",
+    "\\social_book",
+    "\\staticfiles\\assets",
+    "\\staticfiles\\assets\\images",
+    "\\staticfiles\\assets\\images\\avatars",
     "\\static\\assets\\images",
-    "\\static\\assets\\images\\avatars"
+    "\\templates"
   ],
-  "SelectedNode": "\\social_book",
+  "SelectedNode": "\\core\\views.py",
   "PreviewInSolutionExplorer": false
 }
